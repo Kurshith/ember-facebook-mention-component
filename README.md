@@ -4,4 +4,4 @@ It supports debouncing and tags highlight when it is selected from the list of s
 ## Prerequisites
 * [At.js](https://github.com/ichord/At.js/)
 
-![alt text](http://url/to/img.png)
+![alt text](https://github.com/Kurshith/ember-facebook-mention-component/blob/master/model.png)
